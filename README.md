@@ -1,5 +1,5 @@
 # apple-landing-page-clone
-Apple's Landing Page Cloned with Boostrap
+Apple's Landing Page Cloned with Boostrap 4
 
 
 MIT License
